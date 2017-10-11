@@ -42,10 +42,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 7150 4950 1500 450 
-U 59DE457B
-F0 "24 bit ADC" 60
-F1 "24bitadc.sch" 60
-$EndSheet
 $EndSCHEMATC
