@@ -33,7 +33,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 1
 Title ""
 Date ""
 Rev ""
@@ -43,16 +43,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 7150 4950 1500 450 
-U 59DE457B
-F0 "24 bit ADC" 60
-F1 "24bitadc.sch" 60
-$EndSheet
-$Sheet
-S 3600 2950 1450 900 
-U 59DE4681
-F0 "proc" 60
-F1 "proc.sch" 60
-$EndSheet
 $EndSCHEMATC
